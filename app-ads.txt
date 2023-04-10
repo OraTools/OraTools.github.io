@@ -1,10 +1,11 @@
-# 2023-01-02 10:12
+# 2023-04-10 11:02
 
 # Admob
 google.com, pub-5727984989807229, DIRECT, f08c47fec0942fa0
 
 # Facebook
 facebook.com, 155679435141174, DIRECT, c3e20eee3f780d68
+facebook.com, 2403290579831579, DIRECT, c3e20eee3f780d68
 
 # Applovin
 applovin.com, fb6a91c6f9942cfa113bc7ceef4752b3, DIRECT
